@@ -5,7 +5,7 @@ Hi, I’m Jane Godwin
 - 📫 you can reach me on [linkedin](https://www.linkedin.com/in/chinemerem-godwin-a9351231b)
 - 😄 Pronouns: She ...
 - ⚡ Fun fact: I love to solve brain tasking problems ...
-
+-  I'm open for data analyst internship as I just finished my data analytics program with Dahel Techies
 <!---
 Jane-kode/Jane-kode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
